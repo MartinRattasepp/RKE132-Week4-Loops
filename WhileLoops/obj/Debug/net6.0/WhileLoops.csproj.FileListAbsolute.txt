@@ -1,0 +1,14 @@
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\bin\Debug\net6.0\WhileLoops.exe
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\bin\Debug\net6.0\WhileLoops.deps.json
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\bin\Debug\net6.0\WhileLoops.runtimeconfig.json
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\bin\Debug\net6.0\WhileLoops.dll
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\bin\Debug\net6.0\WhileLoops.pdb
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\obj\Debug\net6.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\obj\Debug\net6.0\WhileLoops.AssemblyInfoInputs.cache
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\obj\Debug\net6.0\WhileLoops.AssemblyInfo.cs
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\obj\Debug\net6.0\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\obj\Debug\net6.0\WhileLoops.dll
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\obj\Debug\net6.0\refint\WhileLoops.dll
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\obj\Debug\net6.0\WhileLoops.pdb
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\obj\Debug\net6.0\WhileLoops.genruntimeconfig.cache
+C:\Users\matum\source\repos\Week4Logs\WhileLoops\obj\Debug\net6.0\ref\WhileLoops.dll

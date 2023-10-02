@@ -1,0 +1,14 @@
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\bin\Debug\net6.0\FoorLoopSum.exe
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\bin\Debug\net6.0\FoorLoopSum.deps.json
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\bin\Debug\net6.0\FoorLoopSum.runtimeconfig.json
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\bin\Debug\net6.0\FoorLoopSum.dll
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\bin\Debug\net6.0\FoorLoopSum.pdb
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\obj\Debug\net6.0\FoorLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\obj\Debug\net6.0\FoorLoopSum.AssemblyInfoInputs.cache
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\obj\Debug\net6.0\FoorLoopSum.AssemblyInfo.cs
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\obj\Debug\net6.0\FoorLoopSum.csproj.CoreCompileInputs.cache
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\obj\Debug\net6.0\FoorLoopSum.dll
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\obj\Debug\net6.0\refint\FoorLoopSum.dll
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\obj\Debug\net6.0\FoorLoopSum.pdb
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\obj\Debug\net6.0\FoorLoopSum.genruntimeconfig.cache
+C:\Users\matum\source\repos\Week4Logs\FoorLoopSum\obj\Debug\net6.0\ref\FoorLoopSum.dll
